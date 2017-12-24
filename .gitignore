@@ -8,3 +8,4 @@ desktop.ini
 *.m64
 /cyginst.bat
 /setup-x86_64.exe
+.emacs.d
