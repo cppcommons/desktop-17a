@@ -1,15 +1,15 @@
 *.c32
 *.c64
+*.exe
 *.git
 *.lnk
 *.m32
 *.m64
 *___*
 *cmder-1.3.4*
+.binaries
 .emacs.d
 /cyginst.bat
 /setup-x86_64.exe
 desktop.ini
-.binaries
-*.exe
 ms2inst.bat
